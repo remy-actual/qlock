@@ -1,17 +1,9 @@
 body {
-    background-color: #111;
+    background-color: #ccc;
     overflow-x: hidden;
 }
 #wrapper {
     width: 100%;
-}
-#highlight {
-    top: 2px;
-    width: 1158px;
-    min-height: 897px;
-    background-color: #111;
-    margin: 0 auto;
-    margin-bottom: -897px;
 }
 #content {
     left: 0;
@@ -44,7 +36,6 @@ td.quote:after {
     content: "'";
 }
 table {
-    background-color: #111;
     padding: 3em;
 }
 .light {
