@@ -35,7 +35,7 @@ td.quote:after {
     content: "'";
 }
 table {
-    padding: 1em;
+    padding: 2em;
 }
 .light {
     color: #fff;
@@ -54,7 +54,7 @@ pre {
 .signature {
     text-align: center;
     position: relative;
-    top: -1em;
+    top: -2em;
 }
 ::-moz-selection {
     background: #6B3FA0;
